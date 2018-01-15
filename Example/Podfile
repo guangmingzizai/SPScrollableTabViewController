@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SPScrollableTabViewController_Example' do
+  pod 'SPScrollableTabViewController', :path => '../'
+
+  target 'SPScrollableTabViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
