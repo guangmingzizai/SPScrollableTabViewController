@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+@import SPScrollableTabViewController;
 
-@interface SPViewController : UIViewController
+@interface SPViewController : SPCoverTabBarViewController
 
 @end

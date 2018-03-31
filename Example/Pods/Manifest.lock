@@ -1,0 +1,16 @@
+PODS:
+  - SPScrollableTabViewController (0.1.0)
+
+DEPENDENCIES:
+  - SPScrollableTabViewController (from `../`)
+
+EXTERNAL SOURCES:
+  SPScrollableTabViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SPScrollableTabViewController: f8dc47e1b3d2d4abc5dfcb29076167ad9f0a4ec2
+
+PODFILE CHECKSUM: 51a140622cf9202521f9b97e283ad44d5364b3d4
+
+COCOAPODS: 1.3.1
