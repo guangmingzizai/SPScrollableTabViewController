@@ -93,7 +93,6 @@
             coverView.frame = CGRectMake(frame.origin.x,  [self preferCoverFrame].origin.y-[self preferCoverFrame].size.height, frame.size.width, frame.size.height);
         }
     }
-
 }
 
 
